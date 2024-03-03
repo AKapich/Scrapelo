@@ -18,7 +18,7 @@ scrapelo.get_competition_elo('Champions League')
 ```
 ![](https://raw.githubusercontent.com/AKapich/Scrapelo/main/ucl_table.png?token=GHSAT0AAAAAACONR7OMWQNWGEJBZBMLMR5GZPETJXA)
 
-The same effect can be achieved by using the competition code instead of the competition name. You can find out the full list of codes [here].(https://github.com/AKapich/Scrapelo/blob/main/country_codes.py)
+The same effect can be achieved by using the competition code instead of the competition name. You can find out the full list of codes [here](https://github.com/AKapich/Scrapelo/blob/main/country_codes.py).
 ```
 import scrapelo
 scrapelo.get_competition_elo('UCL')
