@@ -7,6 +7,7 @@ If You wonder how does the ELO system work, You can read about it [here](http://
 ```
 pip install scrapelo
 ```
+<br>
 
 ## Features
 
@@ -30,14 +31,13 @@ import scrapelo
 scrapelo.get_competition_elo('Spain')
 scrapelo.get_competition_elo('ESP')
 ```
-<br>
-
 ### Get the current ELO of a single club.
 ```
 import scrapelo
 # Function takes only club name as an argument 
 scrapelo.get_club_elo('Barcelona')
 ```
+<br>
 
 ## Legal Scraping
 
