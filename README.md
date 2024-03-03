@@ -3,6 +3,11 @@
 This simple package provides functions for obtaining ELO scores for clubs available on [clubelo.com](http://clubelo.com/). <br>
 If You wonder how does the ELO system work, You can read about it [here](http://clubelo.com/System).
 
+## Installation
+```
+pip install scrapelo
+```
+
 ## Features
 
 ### Get the current ELO scores of clubs for a given competition.
